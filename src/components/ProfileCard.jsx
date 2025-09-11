@@ -13,7 +13,7 @@ export const ProfileCard = () => {
             <img className='rounded-md' src={profileImg} alt="" />
         </div>
         <h2 className='text-2xl font-bold text-[#111827]'>Full Stack Developer</h2>
-        <p className='text-center text-base'>Passionate about creating scalable web applications with modern technologies. Experienced in React, Node.js, and cloud deployment.</p>
+        <p className='text-center text-base'>Driven by curiosity and a constant urge to learn, with a focus on turning ideas into working products that create value.</p>
          <div className='flex flex-col gap-2'>
           <a href='https://github.com/amirudheenshareif' className='flex items-center gap-3 w-[200px] py-2 px-14 border cursor-pointer rounded-md border-[#16A34A] text-[#16A34A] bg-[#ffffff] shadow-md'>
                 <Github className='h-5 w-5'/>
@@ -23,7 +23,9 @@ export const ProfileCard = () => {
                 <Linkedin className='h-5 w-5'/>
                 <span className='text-sm'>LinkedIn</span>
             </a>
-             <a href='' download className='flex items-center justify-center gap-3 w-[200px] py-2 border-1 rounded-md bg-[#16A34A] text-[#ffffff] shadow-md cursor-pointer'>
+             <a href="/Amirudheen_Shareif__CV.pdf"
+                download="Amirudheen_Shareif_CV.pdf"
+                className='flex items-center justify-center gap-3 w-[200px] py-2 border-1 rounded-md bg-[#16A34A] text-[#ffffff] shadow-md cursor-pointer'>
                 <Download className='h-5 w-5'/>
                 <p className='text-sm'>Download Resume</p>
             </a>

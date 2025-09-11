@@ -5,7 +5,7 @@ export const About = () => {
     <div className='p-8 flex flex-col gap-4 text-center'>
         <h2 className='text-2xl text-[#111827] font-bold'>About Me</h2>
         <p className='text-[#374151]'>
-            I'm a passionate full stack developer with expertise in modern web technologies. I love building scalable applications that solve real-world problems and provide exceptional user experiences. With a strong foundation in both frontend and backend development, I enjoy working on challenging projects that push the boundaries of what's possible on the web.
+           I’m a developer who enjoys working across the full stack with MongoDB, Express, React, and Node.js. I build applications that connect clean front-end design with reliable back-end systems. Along the way, I’ve been exploring how AI can make tools smarter and more useful, and what excites me most is applying these skills to projects that tackle real-world challenges where web development and AI come together.
         </p>
     </div>
   )

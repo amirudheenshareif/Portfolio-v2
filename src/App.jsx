@@ -1,4 +1,5 @@
 import './App.css'
+import { useRef } from 'react'
 import {Header} from './components/Header'
 import { ProfileCard } from './components/ProfileCard'
 import { About } from './components/About'
@@ -9,16 +10,21 @@ import { Footer } from './components/Footer'
 
 
 function App() {
+  const contactRef = useRef(null);
+
+  const scrollToContact = () => {
+    contactRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
   
 
   return (
     <>
-    <Header/>
+    <Header scrollToContact={scrollToContact}/>
     <ProfileCard/>
     <About/>
     <Skills/>
     <Projects/>
-    <Contact/>
+    <Contact ref={contactRef}/>
     <Footer/>
     </>
   )
