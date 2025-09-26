@@ -40,8 +40,17 @@ export const projects = [
         techs:["React","Express.js","OpenRouter","Qdrant","Cohere-AI","Tailwind CSS"],
         imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/lexis-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvbGV4aXMtYmcud2VicCIsImlhdCI6MTc1NzYxMTI1MCwiZXhwIjoxNzg5MTQ3MjUwfQ.lhohaAMWYN-N3saB5Bk3_uxsIHm0agZQoRXzmpRavdE"
      },
-      {
+     {
         id:3,
+        title:"Multi Tenant SaaS Notes App",
+        gitHubLink:"https://github.com/amirudheenshareif/SaaS-NotesApp",
+        liveLink:"https://saas-notes-app-peach-kappa.vercel.app/",
+        description:"Built a secure, multi-tenant Notes application with JWT authentication, role-based access, and subscription-based feature limits",
+        techs:["React","Express.js","MongoDB","Mongoose","Tailwind CSS"],
+        imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/notes-app-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvbm90ZXMtYXBwLWJnLndlYnAiLCJpYXQiOjE3NTg4OTk1NjUsImV4cCI6MTc5MDQzNTU2NX0.oQuEjciW9VkzamIgYM2VkDTUP6X-JEpBjt5KhoIfnuE"
+     },
+      {
+        id:4,
         title:"JOBVERSE (Job Portal App)",
         gitHubLink:"https://github.com/amirudheenshareif/JobVerse",
         liveLink:"https://job-verse-dusky.vercel.app/",
@@ -51,7 +60,7 @@ export const projects = [
 
     },
      {
-        id:4,
+        id:5,
         title:"WebWit (Blog App)",
         gitHubLink:"https://github.com/amirudheenshareif/WebWit-BlogApp",
         liveLink:"https://web-wit-blog-app.vercel.app/",
@@ -61,7 +70,7 @@ export const projects = [
 
     },
     {
-        id:5,
+        id:6,
         title:"Weather Tracker",
         gitHubLink:"https://github.com/amirudheenshareif/Dynamic-Weather-Tracker",
         liveLink:"https://dynamic-weather-tracker.vercel.app/",
