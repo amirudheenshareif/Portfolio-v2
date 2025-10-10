@@ -56,7 +56,7 @@ export const projects = [
         liveLink:"https://password-vault-rho-nine.vercel.app/",
         description:"Built a secure Password Vault with encrypted password storage, generation, and CRUD operations using CryptoAPI.",
         techs:["React","Express.js","Crypto-API","MongoDB"],
-        imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/weather-tracker-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvd2VhdGhlci10cmFja2VyLWJnLndlYnAiLCJpYXQiOjE3NjAwOTQ0MjcsImV4cCI6MTc5MTYzMDQyN30.CK6S1IrcxoQwGV7Eu-DC24Q9VPncVF2CZsDcH49ZZwk"
+        imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/password-vault-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvcGFzc3dvcmQtdmF1bHQtYmcud2VicCIsImlhdCI6MTc2MDA5NDcyMSwiZXhwIjoxNzkxNjMwNzIxfQ.4RLRzo-UTuiJt7dTt-_91CkFFa-yrmT6ZQ8uT3gVuOE"
      },
       {
         id:5,
