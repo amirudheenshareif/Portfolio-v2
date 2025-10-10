@@ -49,8 +49,17 @@ export const projects = [
         techs:["React","Express.js","MongoDB","Mongoose","Tailwind CSS"],
         imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/notes-app-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvbm90ZXMtYXBwLWJnLndlYnAiLCJpYXQiOjE3NTg4OTk1NjUsImV4cCI6MTc5MDQzNTU2NX0.oQuEjciW9VkzamIgYM2VkDTUP6X-JEpBjt5KhoIfnuE"
      },
-      {
+     {
         id:4,
+        title:"Password-Vault",
+        gitHubLink:"https://github.com/amirudheenshareif/password-vault",
+        liveLink:"https://password-vault-rho-nine.vercel.app/",
+        description:"Built a secure Password Vault with encrypted password storage, generation, and CRUD operations using CryptoAPI.",
+        techs:["React","Express.js","Crypto-API","MongoDB"],
+        imgLink:"https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/sign/assets/weather-tracker-bg.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80OTc0ZTA5OS02MzRlLTRlYmEtODgyYy0wODE0ZmE5OWM4NWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvd2VhdGhlci10cmFja2VyLWJnLndlYnAiLCJpYXQiOjE3NjAwOTQ0MjcsImV4cCI6MTc5MTYzMDQyN30.CK6S1IrcxoQwGV7Eu-DC24Q9VPncVF2CZsDcH49ZZwk"
+     },
+      {
+        id:5,
         title:"JOBVERSE (Job Portal App)",
         gitHubLink:"https://github.com/amirudheenshareif/JobVerse",
         liveLink:"https://job-verse-dusky.vercel.app/",
@@ -60,7 +69,7 @@ export const projects = [
 
     },
      {
-        id:5,
+        id:6,
         title:"WebWit (Blog App)",
         gitHubLink:"https://github.com/amirudheenshareif/WebWit-BlogApp",
         liveLink:"https://web-wit-blog-app.vercel.app/",
@@ -70,7 +79,7 @@ export const projects = [
 
     },
     {
-        id:6,
+        id:7,
         title:"Weather Tracker",
         gitHubLink:"https://github.com/amirudheenshareif/Dynamic-Weather-Tracker",
         liveLink:"https://dynamic-weather-tracker.vercel.app/",
