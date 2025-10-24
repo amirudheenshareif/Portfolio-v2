@@ -23,7 +23,7 @@ export const ProfileCard = () => {
                 <Linkedin className='h-5 w-5'/>
                 <span className='text-sm'>LinkedIn</span>
             </a>
-             <a href="/Amirudheen_Shareif__CV.pdf"
+             <a href="/Amirudheen_Shareif_CV.pdf"
                 download="Amirudheen_Shareif_CV.pdf"
                 className='flex items-center justify-center gap-3 w-[200px] py-2 border-1 rounded-md bg-[#16A34A] text-[#ffffff] shadow-md cursor-pointer'>
                 <Download className='h-5 w-5'/>
