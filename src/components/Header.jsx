@@ -10,7 +10,7 @@ export const Header = ({scrollToContact}) => {
         <h1 className='text-2xl font-bold'>Amirudheen Shareif</h1>
         <div className='flex gap-2 justify-between items-center'>
             <a
-            href='/Amirudheen_Shareif_CV.pdf'
+            href='/Amirudheen_Shareif.pdf'
             target='_blank'
             rel="noopener noreferrer"
             className='flex items-center gap-3 px-4 py-2 border-1 rounded-md bg-[#16A34A] text-[#ffffff] shadow-md cursor-pointer'>
